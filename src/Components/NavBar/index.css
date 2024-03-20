@@ -1,0 +1,39 @@
+.container {
+  padding-top: 30px;
+  width: 95%;
+  margin: auto;
+}
+
+.logo {
+  height: 34px;
+}
+
+.navbar-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 56px;
+}
+
+.search-content {
+  width: 752px;
+  height: 100%;
+}
+
+.user-content {
+  display: flex;
+  gap: 8px;
+  border-radius: 8px;
+  align-items: center;
+  padding: 12px;
+}
+
+.user-photo {
+  width: 32px;
+  height: 32px;
+  border-radius: 100%;
+}
+
+.user-name {
+  color: white;
+}
