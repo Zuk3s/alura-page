@@ -1,21 +1,21 @@
 .input-bar {
-  width: inherit;
-  height: inherit;
-  padding-inline: 14px;
-  border-radius: 8px;
-  background-color: rgba(255, 255, 255, 0.16);
-  color: rgba(255, 255, 255, 0.5);
-  border: none;
+  width: inherit!important;
+  height: inherit!important;
+  padding-inline: 14px!important;
+  border-radius: 8px!important;
+  background-color: rgba(255, 255, 255, 0.16)!important;
+  color: rgba(255, 255, 255, 0.5)!important;
+  border: none!important;
 }
 
 .input-bar:focus {
-  outline: 2px solid rgba(255, 255, 255, 0.5);
+  outline: 2px solid rgba(255, 255, 255, 0.5)!important;
 }
 
 .input-bar::placeholder {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.5)!important;
 }
 
 .input-content:hover .input-bar {
-  background-color: rgba(255, 255, 255, 0.24);
+  background-color: rgba(255, 255, 255, 0.24)!important;
 }

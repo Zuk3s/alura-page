@@ -10,7 +10,7 @@ export function Input(props: Iinput) {
     <input
       type={props.type}
       placeholder={props.placeholder}
-      className={props.type === "dropdown" ? "input-bar dropdown" : "input-bar"}
+      className= "${props.type === 'dropdown' ? 'input-bar dropdown' : 'input-bar'}"
     />
   );
 }

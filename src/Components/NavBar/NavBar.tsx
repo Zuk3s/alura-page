@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
-import Logo from "../Images/Logo.svg";
-import User from "../Images/user.jpeg";
+import Logo from "../../Images/Logo.svg";
+import User from "../../Images/user.jpeg";
 import "./index.css";
 import { Input } from "../Input/Input";
 
