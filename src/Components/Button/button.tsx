@@ -6,7 +6,6 @@ import Image from 'react-bootstrap/Image'
 import Logo from "../../Images/Logo.svg";
 import User from "../../Images/user.jpeg";
 import { Input } from "../Input/Input";
-import "../Input/index.css";
 
 export default function NavBarExemple() {
   return (
